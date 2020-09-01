@@ -1,6 +1,6 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "myApp1",
+  "projectname": "TaroTemplate",
   "description": "taro with redux",
   "appid": "touristappid",
   "setting": {

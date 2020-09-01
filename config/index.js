@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'myApp1',
+  projectName: 'TaroTemplate',
   date: '2020-8-27',
   designWidth: 750,
   deviceRatio: {
