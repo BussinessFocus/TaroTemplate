@@ -1,0 +1,7 @@
+@import "~taro-ui/dist/style/index.scss";
+
+
+@mixin wh($width, $height) {
+  width: $width;
+  height: $height;
+}
