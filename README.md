@@ -22,7 +22,8 @@ src 工程文件存放文件夹
       index.scss  当前页面样式文件
       model.js  当前页面model
       service.js  当前页面对应的接口服务
-  utils 项目工具库文件
+  utils 项目工具库文件,除了固定的几个工具函数文件外，当前项目用到的公共函数也存放在这个文件夹
+    request.js  请求函数统一封装
   app.config.js app配置文件
   app.jsx 项目入口文件
   app.scss 项目全局样式文件
